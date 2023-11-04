@@ -1,5 +1,5 @@
  # Hello, World!
 
-Hi!!!
+I study in Netology!!!
 
 04.11.23
